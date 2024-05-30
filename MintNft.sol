@@ -9,7 +9,7 @@ contract MintNft is ERC721Enumerable, Ownable {
 
     constructor(string memory _name, string memory _symbol) ERC721(_name, _symbol) Ownable(msg.sender) {}
 
-    function mintNft(string memory _metadataUri) public {
+    function mintNft(string memory _metadataUri) public onlyOwner {
         uint tokenId = totalSupply() + 1;
 
         _mint(msg.sender, tokenId);
