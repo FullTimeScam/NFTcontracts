@@ -1,0 +1,11 @@
+{
+  "name": "PEPE_한글도 되는지 테스트",
+  "description": "Stay SAFU. Stay Calm. I'll Take It. Thank you.",
+  "image": "https://lavender-neat-porcupine-347.mypinata.cloud/ipfs/QmXLNbWqN1mZbx6ijebiS4GbbkdEKMmHpaMkq7Sbkohd9d",
+  "attributes": [
+    { "trait_type": "한글", "value": "S" },
+    { "trait_type": "도", "value": "A" },
+    { "trait_type": "되는지", "value": "F" },
+    { "trait_type": "테스트", "value": "U" }
+  ]
+}

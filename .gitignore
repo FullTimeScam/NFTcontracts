@@ -1,0 +1,21 @@
+# Ignore dependencies and build artifacts
+.deps/
+.states/
+artifacts/
+
+# Ignore all images except for specific files
+images/*
+!images/NOSCAM.png
+!images/PEPE_Crypto_Gaming.png
+!images/PEPE_LFG.png
+!images/PEPE_NO_SCAM.png
+
+# Ignore all JSON files except for specific files
+res/*
+!res/PEPE_Newspaper_Gaming.json
+!res/PEPE_NO_SCAM.json
+!res/PEPE_Snacks_and_Games.json
+
+# Ignore any other unnecessary files
+*.log
+*.tmp
