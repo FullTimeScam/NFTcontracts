@@ -1,0 +1,23 @@
+{
+  "name": "스틱 슬라임",
+  "description": "하드 아이스크림 막대를 닮은 장난기 많고 명랑한 슬라임입니다. 주변을 시원하게 하고 모든 사람들에게 웃음을 가져다 주는 능력으로 유명합니다. 슬라임 프로젝트에서 스틱 슬라임은 신선한 존재감과 분위기를 밝게 만드는 능력으로 유명합니다. 연구자들은 실험실 내 온도를 조절하는 새로운 방법을 개발하기 위해 그 냉각 특성을 연구합니다. 장난기 많은 성격에도 불구하고, 스틱 슬라임은 실험실 환경을 안정적이고 즐겁게 유지하는 데 중요한 역할을 합니다. 재미와 기능성을 결합하는 독특한 능력 덕분에 연구팀에서 인기가 많습니다.",
+  "image": "https://lavender-neat-porcupine-347.mypinata.cloud/ipfs/Qmes7RJ6Fx4ufCZMAkUeay3TZaF7tXSLCZSzqcz95zYoBb/4.png",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Shape",
+      "value": "Stick"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Cheerful"
+    },
+    {
+      "trait_type": "Ability",
+      "value": "Cooling"
+    }
+  ]
+}

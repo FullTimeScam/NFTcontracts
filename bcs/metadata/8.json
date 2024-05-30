@@ -1,0 +1,23 @@
+{
+  "name": "전구 슬라임",
+  "description": "반짝반짝 빛이 나는 전구 슬라임입니다. 어두운 곳을 밝히고 따뜻함과 긍정적인 에너지를 제공하는 능력으로 유명합니다. 슬라임 프로젝트에서 전구 슬라임은 그 빛나는 특성 덕분에 중요하게 여겨집니다. 연구자들은 지속 가능한 조명을 제공하는 새로운 방법을 개발하기 위해 그 능력을 연구합니다. 섬세해 보이는 외관에도 불구하고, 전구 슬라임은 실험실에서 환영받는 분위기를 조성하는 데 중요한 역할을 합니다. 특히 야간 실험에서 공간을 밝히는 독특한 능력 덕분에 연구팀의 필수적인 부분입니다.",
+  "image": "https://lavender-neat-porcupine-347.mypinata.cloud/ipfs/Qmes7RJ6Fx4ufCZMAkUeay3TZaF7tXSLCZSzqcz95zYoBb/8.png",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Shape",
+      "value": "Light Bulb"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Bright"
+    },
+    {
+      "trait_type": "Ability",
+      "value": "Illumination"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "향수 슬라임 (로즈)",
+  "description": "활발하고 열정적인 로즈 향이 나는 슬라임입니다. 에너지와 긍정성을 불어넣는 능력으로 유명합니다. 슬라임 프로젝트에서 향수 슬라임 (로즈)은 그 활기찬 존재감으로 유명합니다. 연구자들은 이를 연구하여 새로운 사기 진작 및 에너지 부여 방법을 개발합니다. 활기찬 성격에도 불구하고, 로즈 슬라임은 팀의 사기를 높이는 데 중요한 역할을 합니다. 활력과 에너지를 북돋는 독특한 능력 덕분에 특히 긴 실험 중에 연구팀의 필수적인 부분입니다.",
+  "image": "https://lavender-neat-porcupine-347.mypinata.cloud/ipfs/Qmes7RJ6Fx4ufCZMAkUeay3TZaF7tXSLCZSzqcz95zYoBb/6.png",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "Rose"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Passionate"
+    },
+    {
+      "trait_type": "Ability",
+      "value": "Energy Boost"
+    },
+    {
+      "trait_type": "Relationship",
+      "value": "Twin"
+    }
+  ]
+}

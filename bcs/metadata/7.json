@@ -1,0 +1,23 @@
+{
+  "name": "알약 슬라임",
+  "description": "알약을 닮은 치유 슬라임입니다. 상처를 치유하고 활력을 회복시키는 독특한 능력을 가지고 있습니다. 슬라임 프로젝트에서 알약 슬라임은 그 치유 특성으로 인해 매우 중요하게 여겨집니다. 연구자들은 이를 연구하여 새로운 의료 응용 프로그램을 개발하고 다른 슬라임들의 건강을 개선합니다. 작은 크기에도 불구하고, 알약 슬라임은 팀의 건강을 유지하는 데 중요한 역할을 하며, 모든 사람들이 실험을 위해 최상의 상태를 유지하도록 합니다.",
+  "image": "https://lavender-neat-porcupine-347.mypinata.cloud/ipfs/Qmes7RJ6Fx4ufCZMAkUeay3TZaF7tXSLCZSzqcz95zYoBb/7.png",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Red and Blue"
+    },
+    {
+      "trait_type": "Shape",
+      "value": "Pill"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Healing"
+    },
+    {
+      "trait_type": "Ability",
+      "value": "Restore Vitality"
+    }
+  ]
+}

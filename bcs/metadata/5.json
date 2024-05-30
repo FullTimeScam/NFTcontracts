@@ -1,0 +1,27 @@
+{
+  "name": "향수 슬라임 (라벤더)",
+  "description": "차분하고 진정시키는 라벤더 향이 나는 슬라임입니다. 스트레스를 해소하고 평온함을 제공하는 능력으로 유명합니다. 슬라임 프로젝트에서 향수 슬라임 (라벤더)은 그 차분한 존재감으로 사랑받고 있습니다. 연구자들은 이를 연구하여 새로운 스트레스 해소 및 이완 방법을 개발합니다. 부드러운 성격에도 불구하고, 라벤더 슬라임은 실험실 내 평화로운 분위기를 유지하는 데 중요한 역할을 합니다. 진정과 이완 능력 덕분에 특히 강도 높은 실험 중에 연구팀의 필수적인 부분입니다.",
+  "image": "https://lavender-neat-porcupine-347.mypinata.cloud/ipfs/Qmes7RJ6Fx4ufCZMAkUeay3TZaF7tXSLCZSzqcz95zYoBb/5.png",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Calm"
+    },
+    {
+      "trait_type": "Ability",
+      "value": "Stress Relief"
+    },
+    {
+      "trait_type": "Relationship",
+      "value": "Twin"
+    }
+  ]
+}

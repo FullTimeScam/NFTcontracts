@@ -1,0 +1,23 @@
+{
+  "name": "체리 슬라임",
+  "description": "달콤하고 활기찬 체리 향이 나는 슬라임입니다. 매력적이며 주변 모든 사람들에게 기쁨을 줍니다. 슬라임 프로젝트에서 체리 슬라임은 기운을 북돋우고 행복을 전파하는 능력으로 유명합니다. 연구자들은 긍정적인 에너지가 다른 슬라임과 환경에 어떤 영향을 미치는지 이해하기 위해 그 명랑한 성격을 연구합니다. 체리 슬라임의 전염성 있는 열정은 어려운 시기에 사기를 높이는 데 도움이 되며, 프로젝트 공동체의 필수적인 부분이 됩니다. 그 존재는 프로젝트가 기쁨과 창의성으로 가득한 장소로 유지되도록 하며, 새로운 발견이 항상 웃음과 함께 이루어지도록 합니다.",
+  "image": "https://lavender-neat-porcupine-347.mypinata.cloud/ipfs/Qmes7RJ6Fx4ufCZMAkUeay3TZaF7tXSLCZSzqcz95zYoBb/3.png",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "Cherry"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Energetic"
+    },
+    {
+      "trait_type": "Ability",
+      "value": "Joy Bringer"
+    }
+  ]
+}

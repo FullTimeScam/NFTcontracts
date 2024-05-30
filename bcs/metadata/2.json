@@ -1,0 +1,23 @@
+{
+  "name": "얼음 슬라임",
+  "description": "차갑고 침착한 얼음 슬라임입니다. 주변을 얼릴 수 있으며 압박 속에서도 침착함을 유지합니다. 슬라임 프로젝트에서 얼음 슬라임은 온도 조절 및 얼음 구조물 생성 능력으로 유명합니다. 연구자들은 이를 연구하여 새로운 보존 및 냉각 방법을 개발합니다. 차가운 외관에도 불구하고, 얼음 슬라임은 다른 슬라임들을 도와 그들의 능력을 강화하는 데 자주 사용됩니다. 위기 상황에서도 침착한 태도 덕분에 팀의 신뢰할 수 있는 일원이자 중요한 실험과 돌파구를 위한 필수 요소입니다.",
+  "image": "https://lavender-neat-porcupine-347.mypinata.cloud/ipfs/Qmes7RJ6Fx4ufCZMAkUeay3TZaF7tXSLCZSzqcz95zYoBb/2.png",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Composed"
+    },
+    {
+      "trait_type": "Ability",
+      "value": "Freeze"
+    }
+  ]
+}

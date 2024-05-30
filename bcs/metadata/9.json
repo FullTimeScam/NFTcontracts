@@ -1,0 +1,23 @@
+{
+  "name": "행성 슬라임",
+  "description": "고리와 함께 행성을 닮은 독특한 슬라임입니다. 우주의 신비와 아름다움을 구현하고 있습니다. 슬라임 프로젝트에서 행성 슬라임은 그 우주적 속성으로 존경받고 있습니다. 연구자들은 공간과 외계 요소에 대해 더 많이 이해하기 위해 그 구조를 연구합니다. 외계적 외관에도 불구하고, 행성 슬라임은 팀 내 호기심과 혁신을 자극하는 데 중요한 역할을 합니다. 우주의 광대함과 경이로움을 표현할 수 있는 능력 덕분에 연구팀에서 두드러진 캐릭터입니다.",
+  "image": "https://lavender-neat-porcupine-347.mypinata.cloud/ipfs/Qmes7RJ6Fx4ufCZMAkUeay3TZaF7tXSLCZSzqcz95zYoBb/9.png",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Planet"
+    },
+    {
+      "trait_type": "Rings",
+      "value": "Present"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Mysterious"
+    },
+    {
+      "trait_type": "Ability",
+      "value": "Inspire Curiosity"
+    }
+  ]
+}
