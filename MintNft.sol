@@ -19,10 +19,8 @@ contract MintNft is ERC721Enumerable, Ownable {
 
         metadataUri[tokenId] = _metadataUri;
 
-        uint tradeFee = msg.value/10; //수수료 10%
-
-        payable(0x4B0897b0513fdC7C541B6d9D7E929C4e5364D2dB).transfer(tradeFee); //얘한테 10퍼
-        payable(owner()).transfer(msg.value - tradeFee); // 나한테 90퍼
+       
+        payable(owner()).transfer(msg.value);
 
     }
 
