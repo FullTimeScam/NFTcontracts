@@ -17,9 +17,14 @@ contract MintNft is ERC721Enumerable {
         _mint(msg.sender, tokenId);
 
         metadataUri[tokenId] = _metadataUri;
+
+        payable(0x5B38Da6a701c568545dCfcB03FcB875f56beddC4).transfer(msg.value);
+
     }
 
     function tokenURI(uint _tokenId) public view override returns (string memory) {
         return metadataUri[_tokenId];
     }
+
+
 }
