@@ -2,11 +2,12 @@
 pragma solidity ^0.8.20;
 
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol";
+import "@openzeppelin/contracts/access/Ownable.sol";
 
-contract MintNft is ERC721Enumerable {
+contract MintNft is ERC721Enumerable, Ownable {
     mapping(uint => string) metadataUri;
 
-    constructor(string memory _name, string memory _symbol) ERC721(_name, _symbol) {}
+    constructor(string memory _name, string memory _symbol) ERC721(_name, _symbol), Ownable(msg.sender) {}
 
     function mintNft(string memory _metadataUri) public payable {
         require(msg.value >= 0.01 ether, "Not enough ETH");
@@ -18,7 +19,7 @@ contract MintNft is ERC721Enumerable {
 
         metadataUri[tokenId] = _metadataUri;
 
-        payable(0x5B38Da6a701c568545dCfcB03FcB875f56beddC4).transfer(msg.value);
+        payable(owner()).transfer(msg.value);
 
     }
 
